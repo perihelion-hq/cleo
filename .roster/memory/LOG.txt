@@ -1,0 +1,1 @@
+#0 2026-10-16 CONTRIBUTING.md owns Poetry setup, pytest, pre-commit and news-fragment conventions. pyproject.toml configures strict mypy for src/tests and Ruff with docs/* and tests/fixtures/exceptions/* excluded; CI runs mypy and pytest.                                                                                 
